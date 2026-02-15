@@ -1,0 +1,23 @@
+.event-card{
+    
+    background-color: rgb(218, 216, 99);
+    height: 150px;
+    width: 400px;
+    margin: 5px;
+    padding: 30px;
+    padding-bottom: 20px;
+   
+
+}
+.card-container{
+    padding-top: 30px;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin: 5px;
+
+}
+.button-container{
+    text-align: center;
+}

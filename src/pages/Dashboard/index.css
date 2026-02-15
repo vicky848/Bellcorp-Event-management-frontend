@@ -1,0 +1,26 @@
+.register-heading{
+    text-align: center;
+    padding: 30px;
+}
+
+.list-container{
+    text-align: center;
+    background-color: rgb(60, 102, 156);
+    padding: 20px 60px;
+    width: 500px;
+    margin: 5px;
+}
+.list-container h4{
+    font-size: 23px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    padding: 20px;
+
+}
+.dashboard-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
